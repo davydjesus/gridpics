@@ -9,7 +9,7 @@ O projeto consiste em dois arquivos principais:
 
 1.`index.html`: Este arquivo HTML contém a estrutura básica da página, incluindo cabeçalho, área principal (com as imagens do portfólio) e rodapé.
 
-2. `styles.css`: Este arquivo CSS contém as regras de estilo que definem a aparência e o layout da página.
+2.`styles.css`: Este arquivo CSS contém as regras de estilo que definem a aparência e o layout da página.
 
 ## Funcionalidades
 
